@@ -1,2 +1,2 @@
 # Tweet-Classification
-Algo: Naive Bayes
+Model: Naive Bayes
